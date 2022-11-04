@@ -11,19 +11,9 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gch05406)](https://solved.ac/gch05406)
 </br>
 
-<div align="center">
-    <h3>😃 Hello! 😃</h3>
-    <br/>
-    <p>Hello, I'm Jihoon Yoo.</p>
-    <p>I just started developing the web.</p>
-    <p>I like both the back end and the front end,</p>
-    <p>but I prefer the front end a little more.</p>
-</div>
-<br/>
 
 <div align="center">
     <h3>💻 Tech Stacks 💻</h3>
-</div>
 <br/>
 
 <div align="center">
