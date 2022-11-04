@@ -31,9 +31,7 @@
   <strong>📖 used at least once 📖</strong>
   <br/><br/>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-  <br />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-  <br />
   <img src="https://img.shields.io/badge/Naver_Cloud_Platform-03C75A?style=flat-square&logo=Naver&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
 
