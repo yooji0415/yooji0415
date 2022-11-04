@@ -1,7 +1,8 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E184FF,100:F37335&height=250&fontSize=80&text=JIHOON%20YOO&descAlign=60&descAlignY=55&fontAlignY=40&fontColor=ffffff)
-    
+<br/>
+
 <div align="center">
     <h3>💻 Tech Stacks 💻</h3>
 <br/>
@@ -36,3 +37,11 @@
   <img src="https://img.shields.io/badge/Naver_Cloud_Platform-03C75A?style=flat-square&logo=Naver&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
 
+<br/><br/>
+
+<div align="center">
+  <strong>📚 non-web stack 📚</strong>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
