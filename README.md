@@ -1,8 +1,7 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E184FF,100:F37335&height=250&fontSize=80&text=JIHOON%20YOO&descAlign=60&descAlignY=55&fontAlignY=40&fontColor=ffffff)
-<br/>
-
+    
 <div align="center">
     <h3>💻 Tech Stacks 💻</h3>
 <br/>
