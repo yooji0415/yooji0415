@@ -4,15 +4,6 @@
 <br/>
 
 <div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooji0415&bg_color=DEG,E184FF,F37335&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gch05406)](https://solved.ac/gch05406)
-</br>
-
-
-<div align="center">
     <h3>💻 Tech Stacks 💻</h3>
 <br/>
 
